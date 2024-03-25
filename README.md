@@ -1,6 +1,6 @@
-* Usage
+*Usage
 
 ```
 python3 main.py
 ```
-** Note:- Provide the mobile number with country code.
+**Note:- Provide the mobile number with country code.
